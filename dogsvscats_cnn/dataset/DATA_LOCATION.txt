@@ -1,0 +1,1 @@
+The dataset can be found inside the dataset folder inside the following directory: http://www.superdatascience.com/wp-content/uploads/2017/04/Convolutional_Neural_Networks.zip
